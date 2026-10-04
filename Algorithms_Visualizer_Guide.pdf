@@ -1,0 +1,357 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 3455 >>
+stream
+0.27 0.31 0.86 rg 0 779 612 13 re f
+0.27 0.31 0.86 rg BT /F2 8 Tf 1 0 0 1 42 757 Tm (ALGORITHM VISUALIZER  /  LEARNING GUIDE) Tj ET
+0.06 0.09 0.18 rg BT /F2 24 Tf 1 0 0 1 42 720 Tm (Algorithms Visualizer) Tj ET
+0.38 0.42 0.5 rg BT /F1 10 Tf 1 0 0 1 42 701 Tm (A practical guide to searching, sorting, learning, and quiz practice) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 686 m 570 686 l S
+0.06 0.09 0.18 rg 42 507 528 157 re f
+0.64 0.7 1 rg BT /F2 10 Tf 1 0 0 1 64 631 Tm (WATCH THE PROCESS) Tj ET
+1 1 1 rg BT /F2 25 Tf 1 0 0 1 64 588 Tm (Understand the logic.) Tj ET
+1 1 1 rg BT /F1 11 Tf 1 0 0 1 64 563 Tm (Visualize operations, compare algorithm costs,) Tj ET
+1 1 1 rg BT /F1 11 Tf 1 0 0 1 64 545 Tm (and practice core concepts with saved quizzes.) Tj ET
+0.27 0.31 0.86 rg 64 516 168 22 re f
+1 1 1 rg BT /F2 8.5 Tf 1 0 0 1 76 523.5 Tm (SEARCH  /  SORT  /  LEARN) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 467 Tm (Project overview) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 446 Tm (The Algorithms Visualizer is an educational web application for exploring common search and) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 432 Tm (sorting algorithms. It animates operations on numeric arrays, explains algorithm decisions,) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 418 Tm (compares time and space complexity, and includes interactive quiz practice.) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 260.5 528 148.5 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 386 Tm (Main features) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 366.8 Tm (Visualizer: Load arrays and step through comparisons, swaps, search decisions, and) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 354.3 Tm (sorting operations.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 337.8 Tm (Learn: Explore each algorithm's meaning, why and when to use it, how it works, formulas,) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 325.3 Tm (and examples.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 308.8 Tm (Compare: Review best, average, and worst-case time and extra-space costs side by side.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 292.3 Tm (Quiz: Practice with timed sets, saved progress, feedback, score summaries, and answer) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 279.8 Tm (explanations.) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 235.5 Tm (Learning objectives) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 214.5 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 215.2 Tm (Trace: connect each change in the visualization to the rule that caused it.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 198.5 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 199.2 Tm (Analyze: explain how time and memory needs grow as input size n increases.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 182.5 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 183.2 Tm (Choose: select a method based on input order, size, stability, and memory constraints.) Tj ET
+0.38 0.42 0.5 rg BT /F1 9 Tf 1 0 0 1 42 167.5 Tm (Quiz progress and history are stored in localStorage in the current browser profile. This) Tj ET
+0.38 0.42 0.5 rg BT /F1 9 Tf 1 0 0 1 42 154.5 Tm (is local browser storage, not a cloud account or cross-device sync.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 42 m 570 42 l S
+0.38 0.42 0.5 rg BT /F1 8 Tf 1 0 0 1 42 24 Tm (Algorithms Visualizer | Learning reference) Tj ET
+0.38 0.42 0.5 rg BT /F2 8 Tf 1 0 0 1 535 24 Tm (1 / 6) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3665 >>
+stream
+0.27 0.31 0.86 rg 0 779 612 13 re f
+0.27 0.31 0.86 rg BT /F2 8 Tf 1 0 0 1 42 757 Tm (ALGORITHM VISUALIZER  /  LEARNING GUIDE) Tj ET
+0.06 0.09 0.18 rg BT /F2 24 Tf 1 0 0 1 42 720 Tm (Searching algorithms) Tj ET
+0.38 0.42 0.5 rg BT /F1 10 Tf 1 0 0 1 42 701 Tm (Find a target value in a collection) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 686 m 570 686 l S
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 503 528 165 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 645 Tm (Linear Search) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 625.8 Tm (Meaning: Checks values sequentially until it finds the target or reaches the end.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 609.3 Tm (Why use it: It works with unsorted input and is straightforward for small collections or) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 596.8 Tm (sequential data structures.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 580.3 Tm (How it works: Start at index 0; compare each value with the target; return the index at) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 567.8 Tm (a match, otherwise report not found.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 551.3 Tm (Formula and cost: Best O\(1\); average and worst O\(n\). Space O\(1\). For an equally likely) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 538.8 Tm (successful position, expected comparisons are \(n+1\)/2.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 522.3 Tm (Example: Scan a list of names from the first entry onward.) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 340.5 528 152.5 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 470 Tm (Binary Search) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 450.8 Tm (Meaning: Repeatedly halves the remaining search range.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 434.3 Tm (Requirement: The values must be sorted; sorting first may have a cost of its own.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 417.8 Tm (How it works: Compare target with the middle value. Keep only the half that could) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 405.3 Tm (contain the target and repeat.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 388.8 Tm (Formula and cost: T\(n\) = T\(n/2\) + O\(1\), yielding O\(log n\) time. Best O\(1\); iterative) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 376.3 Tm (extra space O\(1\).) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 359.8 Tm (Example: Find a word in a dictionary by narrowing the range around its middle.) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 315.5 Tm (Choosing between them) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 294.5 Tm (Linear Search can inspect an unsorted list but may examine every item. Binary Search needs) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 280.5 Tm (sorted, indexable data; in exchange, each comparison discards about half of the remaining) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 266.5 Tm (candidates.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 247.5 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 248.2 Tm (Use Linear Search: when the collection is small, unsorted, or only traversable) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 235.2 Tm (sequentially.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 218.5 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 219.2 Tm (Use Binary Search: when data is sorted and many lookups can benefit from logarithmic) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 206.2 Tm (search.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 42 m 570 42 l S
+0.38 0.42 0.5 rg BT /F1 8 Tf 1 0 0 1 42 24 Tm (Algorithms Visualizer | Learning reference) Tj ET
+0.38 0.42 0.5 rg BT /F2 8 Tf 1 0 0 1 535 24 Tm (2 / 6) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3715 >>
+stream
+0.27 0.31 0.86 rg 0 779 612 13 re f
+0.27 0.31 0.86 rg BT /F2 8 Tf 1 0 0 1 42 757 Tm (ALGORITHM VISUALIZER  /  LEARNING GUIDE) Tj ET
+0.06 0.09 0.18 rg BT /F2 24 Tf 1 0 0 1 42 720 Tm (Simple sorting algorithms) Tj ET
+0.38 0.42 0.5 rg BT /F1 10 Tf 1 0 0 1 42 701 Tm (Comparison-based methods that are easy to trace) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 686 m 570 686 l S
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 503 528 165 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 645 Tm (Bubble Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 625.8 Tm (Meaning: Repeated adjacent comparisons move out-of-order values toward their final) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 613.3 Tm (positions.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 596.8 Tm (How it works: Sweep through the unsorted range, swapping neighbors if left > right;) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 584.3 Tm (repeat until sorted.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 567.8 Tm (Why and when: Easy to learn, but generally unsuitable for large inputs.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 551.3 Tm (Formula and cost: Up to n\(n-1\)/2 comparisons across full passes. Best O\(n\) with early-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 538.8 Tm (exit optimization; average/worst O\(n^2\); space O\(1\).) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 522.3 Tm (Example: Neighbors swap until people in a line are ordered by height.) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 340.5 528 152.5 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 470 Tm (Selection Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 450.8 Tm (Meaning: Grows a sorted prefix by selecting the smallest value from the remaining) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 438.3 Tm (suffix.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 421.8 Tm (How it works: At position i, find the minimum from i to n-1 and swap it into position i.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 405.3 Tm (Why and when: Can limit writes, but still performs many comparisons; useful for small) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 392.8 Tm (inputs and teaching.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 376.3 Tm (Formula and cost: Comparisons = n\(n-1\)/2 in every case; time O\(n^2\); extra space O\(1\).) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 359.8 Tm (Example: Repeatedly select the smallest remaining item and place it next.) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 165.5 528 165 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 307.5 Tm (Insertion Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 288.3 Tm (Meaning: Maintains a sorted prefix and inserts each next value in its correct place.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 271.8 Tm (How it works: Hold the next value, shift larger prefix values right, then insert the) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 259.3 Tm (held value.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 242.8 Tm (Why and when: Works especially well on small or nearly sorted inputs; often used in) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 230.3 Tm (hybrid sorts.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 213.8 Tm (Cost: Best O\(n\), average/worst O\(n^2\), extra space O\(1\). Reverse order causes many) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 201.3 Tm (shifts.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 184.8 Tm (Example: Insert each playing card into its proper position in a sorted hand.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 42 m 570 42 l S
+0.38 0.42 0.5 rg BT /F1 8 Tf 1 0 0 1 42 24 Tm (Algorithms Visualizer | Learning reference) Tj ET
+0.38 0.42 0.5 rg BT /F2 8 Tf 1 0 0 1 535 24 Tm (3 / 6) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 3778 >>
+stream
+0.27 0.31 0.86 rg 0 779 612 13 re f
+0.27 0.31 0.86 rg BT /F2 8 Tf 1 0 0 1 42 757 Tm (ALGORITHM VISUALIZER  /  LEARNING GUIDE) Tj ET
+0.06 0.09 0.18 rg BT /F2 24 Tf 1 0 0 1 42 720 Tm (Advanced sorting algorithms) Tj ET
+0.38 0.42 0.5 rg BT /F1 10 Tf 1 0 0 1 42 701 Tm (Divide-and-conquer and heap-based approaches) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 686 m 570 686 l S
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 515.5 528 152.5 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 645 Tm (Merge Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 625.8 Tm (Meaning: A stable divide-and-conquer sort that recursively sorts halves and merges them.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 609.3 Tm (How it works: Split until one-item arrays remain; merge ordered parts by repeatedly) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 596.8 Tm (taking the smaller front item.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 580.3 Tm (Recurrence: T\(n\) = 2T\(n/2\) + O\(n\), so best, average, and worst time are O\(n log n\).) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 563.8 Tm (Why and when: Predictable performance, stability, and external sorting; requires O\(n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 551.3 Tm (extra memory.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 534.8 Tm (Example: Sort smaller groups independently, then merge the ordered groups.) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 340.5 528 165 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 482.5 Tm (Quick Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 463.3 Tm (Meaning: Partitions values around a pivot, then sorts each side recursively.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 446.8 Tm (How it works: Choose a pivot; partition smaller and larger values; apply the process to) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 434.3 Tm (each partition.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 417.8 Tm (Cost: Balanced partitions: O\(n log n\). Repeatedly unbalanced partitions: O\(n^2\). Typical) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 405.3 Tm (stack space O\(log n\), worst O\(n\).) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 388.8 Tm (Why and when: Often fast in memory with modest overhead. Stability and worst-case) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 376.3 Tm (behavior depend on implementation.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 359.8 Tm (Example: Use a reference value to divide a set into lower and higher groups.) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 165.5 528 165 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 307.5 Tm (Heap Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 288.3 Tm (Meaning: Uses a max heap to repeatedly select the largest remaining value.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 271.8 Tm (How it works: Build a max heap; swap the root with the last unsorted item; shrink the) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 259.3 Tm (heap and restore heap order.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 242.8 Tm (Cost: Heap construction O\(n\); repeated extractions O\(n log n\); total O\(n log n\) in every) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 230.3 Tm (case; extra array space O\(1\).) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 213.8 Tm (Why and when: Useful when worst-case time guarantees and low extra memory are important;) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 201.3 Tm (not stable.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 184.8 Tm (Example: A priority structure exposes its largest value at the root.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 42 m 570 42 l S
+0.38 0.42 0.5 rg BT /F1 8 Tf 1 0 0 1 42 24 Tm (Algorithms Visualizer | Learning reference) Tj ET
+0.38 0.42 0.5 rg BT /F2 8 Tf 1 0 0 1 535 24 Tm (4 / 6) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 6361 >>
+stream
+0.27 0.31 0.86 rg 0 779 612 13 re f
+0.27 0.31 0.86 rg BT /F2 8 Tf 1 0 0 1 42 757 Tm (ALGORITHM VISUALIZER  /  LEARNING GUIDE) Tj ET
+0.06 0.09 0.18 rg BT /F2 24 Tf 1 0 0 1 42 720 Tm (Complexity reference) Tj ET
+0.38 0.42 0.5 rg BT /F1 10 Tf 1 0 0 1 42 701 Tm (Big-O describes growth as input size n increases; constants are omitted.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 686 m 570 686 l S
+0.06 0.09 0.18 rg 42 641 478 27 re f
+1 1 1 rg BT /F2 7.8 Tf 1 0 0 1 48 652.2 Tm (Algorithm) Tj ET
+1 1 1 rg BT /F2 7.8 Tf 1 0 0 1 173 652.2 Tm (Best) Tj ET
+1 1 1 rg BT /F2 7.8 Tf 1 0 0 1 250 652.2 Tm (Average) Tj ET
+1 1 1 rg BT /F2 7.8 Tf 1 0 0 1 332 652.2 Tm (Worst) Tj ET
+1 1 1 rg BT /F2 7.8 Tf 1 0 0 1 414 652.2 Tm (Extra space) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 614 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 626.2 Tm (Linear Search) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 626.2 Tm (O\(1\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 626.2 Tm (O\(n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 626.2 Tm (O\(n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 626.2 Tm (O\(1\)) Tj ET
+1 1 1 rg 0.84 0.88 0.93 RG 0.8 w 42 587 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 599.2 Tm (Binary Search) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 599.2 Tm (O\(1\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 599.2 Tm (O\(log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 599.2 Tm (O\(log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 599.2 Tm (O\(1\) iterative) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 560 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 572.2 Tm (Bubble Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 572.2 Tm (O\(n\)*) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 572.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 572.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 572.2 Tm (O\(1\)) Tj ET
+1 1 1 rg 0.84 0.88 0.93 RG 0.8 w 42 533 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 545.2 Tm (Selection Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 545.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 545.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 545.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 545.2 Tm (O\(1\)) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 506 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 518.2 Tm (Insertion Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 518.2 Tm (O\(n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 518.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 518.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 518.2 Tm (O\(1\)) Tj ET
+1 1 1 rg 0.84 0.88 0.93 RG 0.8 w 42 479 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 491.2 Tm (Merge Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 491.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 491.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 491.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 491.2 Tm (O\(n\)) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 452 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 464.2 Tm (Quick Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 464.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 464.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 464.2 Tm (O\(n^2\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 464.2 Tm (O\(log n\) typical) Tj ET
+1 1 1 rg 0.84 0.88 0.93 RG 0.8 w 42 425 478 27 re B
+0.1 0.14 0.23 rg BT /F2 7.8 Tf 1 0 0 1 48 437.2 Tm (Heap Sort) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 173 437.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 250 437.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 332 437.2 Tm (O\(n log n\)) Tj ET
+0.1 0.14 0.23 rg BT /F1 7.8 Tf 1 0 0 1 414 437.2 Tm (O\(1\)) Tj ET
+0.38 0.42 0.5 rg BT /F1 8.7 Tf 1 0 0 1 42 404.3 Tm (* Bubble Sort has O\(n\) best-case time when it stops early after a no-swap pass. Quick Sort) Tj ET
+0.38 0.42 0.5 rg BT /F1 8.7 Tf 1 0 0 1 42 391.3 Tm (uses O\(log n\) stack space with balanced partitions, but may use O\(n\) with highly unbalanced) Tj ET
+0.38 0.42 0.5 rg BT /F1 8.7 Tf 1 0 0 1 42 378.3 Tm (ones.) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 354 Tm (Reading the notation) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 333 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 333.7 Tm (O\(1\): constant work as input grows.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 317 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 317.7 Tm (O\(log n\): often indicates repeatedly halving the remaining problem.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 301 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 301.7 Tm (O\(n\): work grows in proportion to the number of items.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 285 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 285.7 Tm (O\(n log n\): common growth rate for efficient comparison sorting.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 269 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 269.7 Tm (O\(n^2\): often comes from pairwise or nested comparisons; expensive for large n.) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 248 Tm (Important terms) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 227 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 227.7 Tm (Stable sort: preserves relative order of records with equal keys. Standard Merge and) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 214.7 Tm (Bubble Sort are stable; Quick and Heap Sort are not.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 198 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 198.7 Tm (Auxiliary space: extra working memory beyond the input.) Tj ET
+0.27 0.31 0.86 rg BT /F2 10 Tf 1 0 0 1 47 182 Tm (-) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 182.7 Tm (Best / average / worst case: cost for favorable, typical, and most costly input) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.3 Tf 1 0 0 1 61 169.7 Tm (arrangements.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 42 m 570 42 l S
+0.38 0.42 0.5 rg BT /F1 8 Tf 1 0 0 1 42 24 Tm (Algorithms Visualizer | Learning reference) Tj ET
+0.38 0.42 0.5 rg BT /F2 8 Tf 1 0 0 1 535 24 Tm (5 / 6) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 3784 >>
+stream
+0.27 0.31 0.86 rg 0 779 612 13 re f
+0.27 0.31 0.86 rg BT /F2 8 Tf 1 0 0 1 42 757 Tm (ALGORITHM VISUALIZER  /  LEARNING GUIDE) Tj ET
+0.06 0.09 0.18 rg BT /F2 24 Tf 1 0 0 1 42 720 Tm (Learn and practice) Tj ET
+0.38 0.42 0.5 rg BT /F1 10 Tf 1 0 0 1 42 701 Tm (A study framework and quiz feature guide) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 686 m 570 686 l S
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 653 Tm (Learn section) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 632 Tm (Each algorithm topic addresses the questions learners need to connect concepts with) Tj ET
+0.1 0.14 0.23 rg BT /F1 10 Tf 1 0 0 1 42 618 Tm (execution:) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 469 528 140 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 586 Tm (Learning framework) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 566.8 Tm (Meaning: A plain-language definition of the algorithm.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 550.3 Tm (Why use it?: Its strengths, trade-offs, and conditions where it is useful.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 533.8 Tm (How it works: The main steps that lead to the result.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 517.3 Tm (Formula and complexity: A recurrence or comparison-count idea, plus time and extra-space) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 504.8 Tm (costs.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 488.3 Tm (Example and use: A familiar analogy and practical input scenarios.) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 444 Tm (Interactive quiz) Tj ET
+0.94 0.96 1 rg 0.84 0.88 0.93 RG 0.8 w 42 210 528 223 re B
+0.06 0.09 0.18 rg BT /F2 13 Tf 1 0 0 1 55 410 Tm (Quiz features) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 390.8 Tm (20 sets: Each set has 10 multiple-choice algorithm questions.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 374.3 Tm (10-minute timer: Each attempt is timed. When time expires, the attempt is automatically) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 361.8 Tm (completed.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 345.3 Tm (Feedback: After a choice, the app highlights the answer and explains why it is correct.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 328.8 Tm (Navigation: Move between questions and change selected answers before finishing;) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 316.3 Tm (unanswered items count as skipped.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 299.8 Tm (Scoring: Correct answers earn one point; wrong and skipped items do not. Accuracy =) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 287.3 Tm (\(correct / total questions\) x 100.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 270.8 Tm (Results and review: Shows score, accuracy, correct/wrong/skipped counts, time remaining,) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 258.3 Tm (each response, the correct answer, and explanation.) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 241.8 Tm (Persistence: Unfinished progress resumes after refresh. Completed history is grouped by) Tj ET
+0.1 0.14 0.23 rg BT /F1 9.2 Tf 1 0 0 1 55 229.3 Tm (set and can be cleared.) Tj ET
+0.27 0.31 0.86 rg BT /F2 15 Tf 1 0 0 1 42 185 Tm (Storage and privacy) Tj ET
+0.38 0.42 0.5 rg BT /F1 9.2 Tf 1 0 0 1 42 164.8 Tm (Quiz data is saved in localStorage on the current browser profile and device. It is not) Tj ET
+0.38 0.42 0.5 rg BT /F1 9.2 Tf 1 0 0 1 42 151.8 Tm (sent to a server or synchronized across browsers. Clearing site data or switching devices) Tj ET
+0.38 0.42 0.5 rg BT /F1 9.2 Tf 1 0 0 1 42 138.8 Tm (may make saved progress unavailable.) Tj ET
+0.84 0.88 0.93 RG 0.8 w 42 42 m 570 42 l S
+0.38 0.42 0.5 rg BT /F1 8 Tf 1 0 0 1 42 24 Tm (Algorithms Visualizer | Learning reference) Tj ET
+0.38 0.42 0.5 rg BT /F2 8 Tf 1 0 0 1 535 24 Tm (6 / 6) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000155 00000 n 
+0000000225 00000 n 
+0000000300 00000 n 
+0000003807 00000 n 
+0000003943 00000 n 
+0000007660 00000 n 
+0000007796 00000 n 
+0000011563 00000 n 
+0000011700 00000 n 
+0000015531 00000 n 
+0000015669 00000 n 
+0000022083 00000 n 
+0000022221 00000 n 
+0000026058 00000 n 
+trailer
+<< /Size 17 /Root 1 0 R >>
+startxref
+26196
+%%EOF
